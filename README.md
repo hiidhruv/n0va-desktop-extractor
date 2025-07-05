@@ -2,8 +2,6 @@
 
 **🎨 Extract your favorite wallpapers from N0va Desktop's cache files!**
 
-N0va Desktop by HoYoverse has been abandoned and no longer displays wallpapers on some operating systems including Windows 11. This open-source tool allows you to extract all the beautiful wallpapers from N0va Desktop's cache files and convert them back to standard PNG images.
-
 ## ✨ Features
 
 - **🔍 Automatic Detection**: Finds all cached wallpapers in N0va Desktop's storage
@@ -48,6 +46,8 @@ This will:
 - Look for cache files in the default location: `C:\Program Files\N0vaDesktop\N0vaDesktopCache`
 - Extract wallpapers to `./extracted_wallpapers/`
 - Skip duplicate files automatically
+
+## Edit ^ accordingly if needed.
 
 ## 📖 Usage Examples
 
@@ -239,8 +239,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 🙏 Acknowledgments
 
 - **HoYoverse** for creating the beautiful N0va Desktop wallpapers
-- **Open Source Community** for inspiration and collaboration
-- **Python Community** for excellent documentation and tools
+- **Python** for excellent tools
 
 ## 📞 Support
 
@@ -255,7 +254,3 @@ If you encounter any issues or have questions:
    - Cache directory path
 
 ---
-
-**Made with ❤️ by the Open Source Community**
-
-*Help preserve digital art and make it accessible to everyone!* 
