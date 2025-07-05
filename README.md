@@ -1,6 +1,7 @@
 # N0va Desktop Wallpaper Extractor
 
 **🎨 Extract your favorite wallpapers from N0va Desktop's cache files!**
+![image](https://github.com/user-attachments/assets/3c98f4ad-2a00-48c2-b282-ea43d35370c9)
 
 ## ✨ Features
 
@@ -48,6 +49,8 @@ This will:
 - Skip duplicate files automatically
 
 ## Edit ^ accordingly if needed.
+You can find your storage directory in N0va desktop settings
+![image](https://github.com/user-attachments/assets/4df5352f-32bf-4a30-9f90-c42ca13e086d)
 
 ## 📖 Usage Examples
 
